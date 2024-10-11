@@ -1,0 +1,14 @@
+C:\Users\camar\OneDrive\Desktop\Projeto\Aplicacao2\bin\Debug\net8.0\Aplicacao2.exe
+C:\Users\camar\OneDrive\Desktop\Projeto\Aplicacao2\bin\Debug\net8.0\Aplicacao2.deps.json
+C:\Users\camar\OneDrive\Desktop\Projeto\Aplicacao2\bin\Debug\net8.0\Aplicacao2.runtimeconfig.json
+C:\Users\camar\OneDrive\Desktop\Projeto\Aplicacao2\bin\Debug\net8.0\Aplicacao2.dll
+C:\Users\camar\OneDrive\Desktop\Projeto\Aplicacao2\bin\Debug\net8.0\Aplicacao2.pdb
+C:\Users\camar\OneDrive\Desktop\Projeto\Aplicacao2\obj\Debug\net8.0\Aplicacao2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camar\OneDrive\Desktop\Projeto\Aplicacao2\obj\Debug\net8.0\Aplicacao2.AssemblyInfoInputs.cache
+C:\Users\camar\OneDrive\Desktop\Projeto\Aplicacao2\obj\Debug\net8.0\Aplicacao2.AssemblyInfo.cs
+C:\Users\camar\OneDrive\Desktop\Projeto\Aplicacao2\obj\Debug\net8.0\Aplicacao2.csproj.CoreCompileInputs.cache
+C:\Users\camar\OneDrive\Desktop\Projeto\Aplicacao2\obj\Debug\net8.0\Aplicacao2.dll
+C:\Users\camar\OneDrive\Desktop\Projeto\Aplicacao2\obj\Debug\net8.0\refint\Aplicacao2.dll
+C:\Users\camar\OneDrive\Desktop\Projeto\Aplicacao2\obj\Debug\net8.0\Aplicacao2.pdb
+C:\Users\camar\OneDrive\Desktop\Projeto\Aplicacao2\obj\Debug\net8.0\Aplicacao2.genruntimeconfig.cache
+C:\Users\camar\OneDrive\Desktop\Projeto\Aplicacao2\obj\Debug\net8.0\ref\Aplicacao2.dll

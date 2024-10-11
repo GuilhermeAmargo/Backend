@@ -1,0 +1,14 @@
+C:\Users\camar\OneDrive\Desktop\Comparação\comparacao\bin\Debug\net8.0\comparacao.exe
+C:\Users\camar\OneDrive\Desktop\Comparação\comparacao\bin\Debug\net8.0\comparacao.deps.json
+C:\Users\camar\OneDrive\Desktop\Comparação\comparacao\bin\Debug\net8.0\comparacao.runtimeconfig.json
+C:\Users\camar\OneDrive\Desktop\Comparação\comparacao\bin\Debug\net8.0\comparacao.dll
+C:\Users\camar\OneDrive\Desktop\Comparação\comparacao\bin\Debug\net8.0\comparacao.pdb
+C:\Users\camar\OneDrive\Desktop\Comparação\comparacao\obj\Debug\net8.0\comparacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camar\OneDrive\Desktop\Comparação\comparacao\obj\Debug\net8.0\comparacao.AssemblyInfoInputs.cache
+C:\Users\camar\OneDrive\Desktop\Comparação\comparacao\obj\Debug\net8.0\comparacao.AssemblyInfo.cs
+C:\Users\camar\OneDrive\Desktop\Comparação\comparacao\obj\Debug\net8.0\comparacao.csproj.CoreCompileInputs.cache
+C:\Users\camar\OneDrive\Desktop\Comparação\comparacao\obj\Debug\net8.0\comparacao.dll
+C:\Users\camar\OneDrive\Desktop\Comparação\comparacao\obj\Debug\net8.0\refint\comparacao.dll
+C:\Users\camar\OneDrive\Desktop\Comparação\comparacao\obj\Debug\net8.0\comparacao.pdb
+C:\Users\camar\OneDrive\Desktop\Comparação\comparacao\obj\Debug\net8.0\comparacao.genruntimeconfig.cache
+C:\Users\camar\OneDrive\Desktop\Comparação\comparacao\obj\Debug\net8.0\ref\comparacao.dll
