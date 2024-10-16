@@ -1,4 +1,5 @@
 ﻿int option = 0;
+int choice = 0;
 
 StockManager stockManager = new StockManager();
 
@@ -43,7 +44,12 @@ do
         break;
 
         case 4: Console.WriteLine("---------------------------------");
-        stockManager.ListAllProducts();
+        Console.WriteLine("Deseja organizar por preço ou nome?\n1. Preço\n2. Nome");
+        choice = Convert.ToInt32(Console.ReadLine());
+            if(choice==1)
+                stockManager.ListAllProducts();
+            if(choice==2)
+                stockManager.ListAllProductsName();
         break;
 
         default: Console.WriteLine("---------------------------------");

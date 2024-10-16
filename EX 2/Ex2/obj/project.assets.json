@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\camar\\OneDrive\\Desktop\\EX 2\\Ex2\\Ex2.csproj",
+      "projectUniqueName": "C:\\Users\\camar\\OneDrive\\Desktop\\Backend\\EX 2\\Ex2\\Ex2.csproj",
       "projectName": "Ex2",
-      "projectPath": "C:\\Users\\camar\\OneDrive\\Desktop\\EX 2\\Ex2\\Ex2.csproj",
+      "projectPath": "C:\\Users\\camar\\OneDrive\\Desktop\\Backend\\EX 2\\Ex2\\Ex2.csproj",
       "packagesPath": "C:\\Users\\camar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\camar\\OneDrive\\Desktop\\EX 2\\Ex2\\obj\\",
+      "outputPath": "C:\\Users\\camar\\OneDrive\\Desktop\\Backend\\EX 2\\Ex2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\camar\\AppData\\Roaming\\NuGet\\NuGet.Config"

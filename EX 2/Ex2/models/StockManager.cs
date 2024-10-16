@@ -1,6 +1,6 @@
 using System.Runtime.CompilerServices;
 
-public class StockManager
+public class StockManager 
 {
     public List<Product> Products = new List<Product>();
 
@@ -34,6 +34,14 @@ public class StockManager
 
     public void ListAllProducts()
     {
+        Products.Sort();
+        foreach(Product product in Products)
+            Console.WriteLine(product);
+    }
+
+    public void ListAllProductsName()
+    {
+        Products.Sort(new nameComparer());
         foreach(Product product in Products)
             Console.WriteLine(product);
     }
