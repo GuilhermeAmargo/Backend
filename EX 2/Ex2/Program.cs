@@ -48,7 +48,7 @@ do
         choice = Convert.ToInt32(Console.ReadLine());
             if(choice==1)
                 stockManager.ListAllProducts();
-            if(choice==2)
+            else if(choice==2)
                 stockManager.ListAllProductsName();
         break;
 
