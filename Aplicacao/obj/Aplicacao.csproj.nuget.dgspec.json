@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\camar\\OneDrive\\Desktop\\Aula Backend\\Aplicacao\\Aplicacao.csproj": {}
+    "C:\\Users\\camar\\OneDrive\\Desktop\\Backend\\Aplicacao\\Aplicacao.csproj": {}
   },
   "projects": {
-    "C:\\Users\\camar\\OneDrive\\Desktop\\Aula Backend\\Aplicacao\\Aplicacao.csproj": {
+    "C:\\Users\\camar\\OneDrive\\Desktop\\Backend\\Aplicacao\\Aplicacao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\camar\\OneDrive\\Desktop\\Aula Backend\\Aplicacao\\Aplicacao.csproj",
+        "projectUniqueName": "C:\\Users\\camar\\OneDrive\\Desktop\\Backend\\Aplicacao\\Aplicacao.csproj",
         "projectName": "Aplicacao",
-        "projectPath": "C:\\Users\\camar\\OneDrive\\Desktop\\Aula Backend\\Aplicacao\\Aplicacao.csproj",
+        "projectPath": "C:\\Users\\camar\\OneDrive\\Desktop\\Backend\\Aplicacao\\Aplicacao.csproj",
         "packagesPath": "C:\\Users\\camar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\camar\\OneDrive\\Desktop\\Aula Backend\\Aplicacao\\obj\\",
+        "outputPath": "C:\\Users\\camar\\OneDrive\\Desktop\\Backend\\Aplicacao\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\camar\\AppData\\Roaming\\NuGet\\NuGet.Config"
